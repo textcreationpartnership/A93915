@@ -1,0 +1,574 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rot amongst the bishops, or, A terrible tempest in the Sea of Canterbury, set forth in lively emblems to please the judicious reader: / by Tho: Stirry.</title>
+            <author>Stirry, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93915</idno>
+            <idno type="STC">Wing S5690</idno>
+            <idno type="STC">Thomason E1102_4</idno>
+            <idno type="STC">ESTC R203656</idno>
+            <idno type="EEBO-CITATION">99863532</idno>
+            <idno type="PROQUEST">99863532</idno>
+            <idno type="VID">169397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169397)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1102[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rot amongst the bishops, or, A terrible tempest in the Sea of Canterbury, set forth in lively emblems to please the judicious reader: / by Tho: Stirry.</title>
+                  <author>Stirry, Thomas.</author>
+               </titleStmt>
+               <extent>[6], 9, [1] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed by R.O. &amp; G.D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLI. [1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Emblem books, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169397:1" rendition="simple:additions"/>
+            <p>A Rot Amongſt THE BISHOPS, OR, A Terrible <hi>Tempeſt</hi> in the Sea of CANTERBURY, Set forth in lively EMBLEMS to pleaſe the judicious Reader:</p>
+            <q>
+               <l>Incidit in Syllam qui vult vitare Charibdim,</l> 
+               <bibl>Ovid.</bibl>
+            </q>
+            <p>By <hi>THO: STIRRY.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R.O.</hi> &amp; <hi>G.D.</hi> MDCXLI.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169397:2"/>
+            <pb facs="tcp:169397:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not unknowne to all (Iudicious Reader) how many imps of ingenious witts, upon this Subject, have iſſued forth into publike view. ſo that he would ſeeme to powre water into the Ocean, or to mend she Crowes eyes, that ſhould attempt to adde any thing to what is already pub<g ref="char:EOLhyphen"/>liſhed. Know therefore that ſo various and wonderfull are the works of the Almightie, that they are altogether unſearchable and paſt finding out: ſo that although thou<g ref="char:EOLhyphen"/>ſands have gon before me, yet may I come after and gleane more then ſufficient. ſo many <hi>1000</hi> choiſe rootes are there in the Garden of our God, that although many have cropt Flowers enough to compoſe fragrant and delectable Noſe<g ref="char:EOLhyphen"/>gayes, yet is their choiſe enough left for me to gather on; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut to be contemned. Nevertheleſſe farre be it from me, out of a vaine oſtentation, to arrogate any thing to my ſelfe, for I am privie enough, I muſt confeſſe in this way, to my owne inſufficiencie, and therefore I will not be a Iudge of other mens labours, but I come,, with an after<g ref="char:EOLhyphen"/>diſh as one that deſires to furniſh the ſame Feaſt: if it be pleaſing to your Pallats; I need not feare your ſtomacks; for it is but ſmall and light of digeſture; fall to it, it is an Aegyptian Diſh dreſt after the Engliſh Faſhion. For be<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:169397:3"/>that immortallizing knowledge of Letters; the Ae<g ref="char:EOLhyphen"/>gyptians were wont to expreſſe every thing by <hi>Hierogly<g ref="char:EOLhyphen"/>phicks,</hi> or ſilent <hi>Parables,</hi> and therefore I doubt not but you will eaſily ſatisfie in this doubt: why I call the firſt emblem, a ſhip of <hi>Alexandria:</hi> but perchance ſome may be offended with me, becauſe I have choſen this Subject rather then any other, let them know that I have Autho<g ref="char:EOLhyphen"/>rity for it; for if the Almightie ſhall be pleaſed in this our age, as Mr. <hi>Quarles</hi> of Neverdying Memory ſpeaks, to ſee theſe proud Popiſh <hi>Prelates,</hi> as Shroving Cooks, for every one to ſpend a Cudgell at to the Worlds end; I ſee no reaſon but I as well as others may throw one ſtick at them. Thus hoping that your pleaſure, in reading, will be equivalent to mine, in writing.</p>
+            <closer>
+               <salute>Farewell</salute>
+               <signed>Yours in the like Service <hi>THOMAS STIRRY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="mock_emblem_book">
+            <pb facs="tcp:169397:3"/>
+            <div type="invocation">
+               <head>The Invocation.</head>
+               <lg>
+                  <l>AWake my ſoule, caſt off thy drowſie Thoughts,</l>
+                  <l>Which clog thy mind, let not ſuch earthly faults</l>
+                  <l>Adhere to thee; awake, and ſoare up higher,</l>
+                  <l>And joyne in conſort with the ſhrill-mouth Quire</l>
+                  <l>Of heavenly Seraphims, and to them incline,</l>
+                  <l>So ſhalt thou make thy Muſicke halfe divine.</l>
+                  <l>Crave not aſſiſtance from the ſacred hill,</l>
+                  <l>Nor dip in Helicon thy feathered quill.</l>
+                  <l>The water's muddy, and Vrania's vaine</l>
+                  <l>Is farre inferiour to thy heavenly ſtraine.</l>
+                  <l>Invoke them not, thy God whom thou doſt hallow</l>
+                  <l>Will be thy Muſe, and thy divine <hi>Apollo.</hi>
+                  </l>
+                  <l>His ſacred influence thy braines inſpire,</l>
+                  <l>And fill thy breſt with his Heroick fire.</l>
+                  <l>Hee' ll touch thy tongue, and teach thee how to ſing</l>
+                  <l>His wondrous Works that he to paſſe doth bring.</l>
+                  <l>Hee' ll guide thy hand, that thou maiſt learne to play</l>
+                  <l>On ſix-and-twenty ſtrings. Oh haſt away</l>
+                  <l>My raviſht ſoule: Let not this dunghill earth</l>
+                  <l>Detaine thy thoughts, and rob thee of thy mirth.</l>
+                  <l>Which heaven ordain'd to pleaſe thy tender eares,</l>
+                  <l>And glad the fainting hearts of all that heares.</l>
+               </lg>
+               <lg>
+                  <l>Rouze up my ſoule, untie thy furled ſayle,</l>
+                  <l>The Wind blows faire, Thou haſt a proſperous gaile.</l>
+                  <l>Mount up th' Olympian hill, and therhence bring</l>
+                  <l>An ayre-dividing pinion from the wing</l>
+                  <l>Of ſome bright Cherubim, that thou maiſt write,</l>
+                  <l>What wonders heaven hath wrought in mortall ſight.</l>
+               </lg>
+               <lg>
+                  <l>And now oh firſt and laſt, ſo guide my pen,</l>
+                  <l>That firſt and laſt I may declare to men</l>
+                  <l>The ſecrets of thy will, and ſhew thy praiſe,</l>
+                  <l>Grant me thy favour, I' ll not ſeek the Bayes.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:169397:4"/>
+               <div n="1" type="emblem">
+                  <p>
+                     <figure>
+                        <head>EMBLEME I.</head>
+                        <head>The Church &amp; Com<g ref="char:EOLhyphen"/>monwealth of <hi>Engalnd.</hi>
+                        </head>
+                        <figure>
+                           <head>high Comiſſion</head>
+                           <figDesc>ship (figuratively, the Anglican Church) sailing towards the mouth of Hell</figDesc>
+                           <figure>
+                              <head>Proceſse</head>
+                              <figDesc>pennant atop the main mast</figDesc>
+                           </figure>
+                           <figure>
+                              <head>Licence</head>
+                              <figDesc>sail of ship</figDesc>
+                           </figure>
+                           <figure>
+                              <head>the Oath<lb/>et: Cet:</head>
+                              <figDesc>two cannons, one discharging the et cetera oath and the other a noose</figDesc>
+                           </figure>
+                           <figure>
+                              <head>Dr. Duck</head>
+                              <figDesc>Arthur Duck, chancellor of the diocese of Bath and Wells</figDesc>
+                           </figure>
+                           <figure>
+                              <head>Laud</head>
+                              <figDesc>Archbishop Laud</figDesc>
+                           </figure>
+                        </figure>
+                        <figure>
+                           <head>Dr. Lamb</head>
+                           <figDesc>Sir John Lamb</figDesc>
+                        </figure>
+                        <figure>
+                           <head>Wren</head>
+                           <figDesc>Bishop Wren of Norwich</figDesc>
+                        </figure>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <head>hell</head>
+                        <figDesc>sea monster with gaping mouth</figDesc>
+                     </figure>
+                  </p>
+               </div>
+               <div type="poem">
+                  <pb n="1" facs="tcp:169397:4"/>
+                  <epigraph>
+                     <q>
+                        <p>And he found a Ship of Alexandria, ſayling into Italie.</p>
+                        <bibl>Acts 27.6.</bibl>
+                     </q>
+                  </epigraph>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">T</seg>He Infernall Tempter, when he firſt begun</l>
+                     <l>To trade for ſoules, no labour did he ſhun;</l>
+                     <l>He could not ſtay (for haſt) to take advice,</l>
+                     <l>But trots on foot as farre as <hi>Paradiſe,</hi>
+                     </l>
+                     <l>Where he not ceaſt to uſe (be't good or bad)</l>
+                     <l>Such Retorick the Land of Darkneſſe had:</l>
+                     <l>And all to gaine that pure immortall breath.</l>
+                     <l>Blown from the ſpring of life, then free from death;</l>
+                     <l>And having got but <hi>one</hi> poore ſoule in ſtore,</l>
+                     <l>Forthwith to it he addeth many more.</l>
+                  </lg>
+                  <lg>
+                     <l>But now who lives, and doth not plainly ſee,</l>
+                     <l>That under Heavens Star-ſpangled Canopie,</l>
+                     <l>Ther's ſcarce a place, or Countrey to be found,</l>
+                     <l>Wherein this <hi>Hell-born crew</hi> doth not abound;</l>
+                     <l>Deceiving <hi>ſoules,</hi> and griping in their hands</l>
+                     <l>The wealth and riches of the fruitfull Lands,</l>
+                     <l>Witneſſe this Iland, which not long agoe,</l>
+                     <l>Was in ſubjection to this <hi>Hell-borne</hi> foe:</l>
+                     <l>For who can ſay he did not ſee, or heare,</l>
+                     <l>What ſway the Lordly Prelates late did beare?</l>
+                     <l>None ſcarce durſt preach without theſe Lords admiſſion,</l>
+                     <l>But ſtreight were hoiſt aboard their <hi>High Commiſſion,</hi>
+                     </l>
+                     <l>Which in full Sayle here fixt before thine eye,</l>
+                     <l>Adumbrats plaine, that wicked Hierarchie;</l>
+                     <l>'Tis now in pomp, and makes a glorious fight,</l>
+                     <l>Though now 'tis faire, it may be foule ere night.</l>
+                     <l>Now Winds obey, and ſend a Soveraigne gale,</l>
+                     <l>Which makes thoſe Sea-Men thus hoyſt up their Sayle,</l>
+                     <l>And o're bleſt <hi>Albions</hi> Church and State to ride,</l>
+                     <l>Diſcharging <hi>Canons</hi> in their furious pride;</l>
+                     <l>Whence flew the <hi>Oath, Et Caetera;</hi> after came</l>
+                     <l>A good ſtrong Halter to conclude the game;</l>
+                     <l>The <hi>Duck</hi> takes wing, and to the Topſayle flyes,</l>
+                     <l>And on the Flag a <hi>Proceſſe</hi> neatly tyes;</l>
+                     <l>The Sayles have got a <hi>Licence,</hi> to proclaime,</l>
+                     <l>No preaching 'thout a Licence in their name;</l>
+                     <l>Their Colours are diſplaid, that all may ſee,</l>
+                     <l>How in this Ship the Devill and they agree.</l>
+                     <l>
+                        <pb n="2" facs="tcp:169397:5"/>
+Hell mouth's wide open, ſure it is to ſhow,</l>
+                     <l>Both Ship and Saylers with the Devill muſt goe.</l>
+                  </lg>
+                  <lg>
+                     <l>Hundreds of yeares hath heavens reſplendent eye</l>
+                     <l>Run his diurnall courſe, ſince men did ſpie</l>
+                     <l>This Hell-built Ship, ſpreading her ſwelling Sayles</l>
+                     <l>O're <hi>Englands</hi> Church, and Common-wealth, with gailes</l>
+                     <l>Blown from the lower darkned world beneath,</l>
+                     <l>Such as the damn'd infernall Furies breath.</l>
+                     <l>And ever ſince this Church-conſuming band</l>
+                     <l>Of Romiſh vermine, hath impair'd our Land:</l>
+                     <l>For whatſoe're theſe holy Seamen ſpide,</l>
+                     <l>They would not reſt, but night and day they try'd</l>
+                     <l>To get 't aboard their High-Commiſſion Boat,</l>
+                     <l>Which every tyde t'wards <hi>Italy</hi> did float.</l>
+                     <l>And that theſe ſacrilegious Pirates might</l>
+                     <l>With greater foree and ſafety vent their ſpight</l>
+                     <l>Againſt <hi>Gods</hi> people and deprive them quite</l>
+                     <l>Of <hi>Chriſt's</hi> ſoule-ſaving Goſpels heavenly light,</l>
+                     <l>See here what helpe the Devil doth them afford,</l>
+                     <l>He is their Pilot; he't was brought aboard</l>
+                     <l>That new made Canon; 'twas his damned plot,</l>
+                     <l>To ram in to 't that truth confounding ſhot,</l>
+                     <l>That he that would not by their Laws be led,</l>
+                     <l>This hell-caſt bullet ſtreight ſhould ſtrike him dead</l>
+                  </lg>
+                  <lg>
+                     <l>But he that ſits in heaven did them deride,</l>
+                     <l>He turn'd the ſtreame in height of all their pride:</l>
+                     <l>For turne the leafe and there in brief I'll ſhow.</l>
+                     <l>What wofull ſhipwrack now they undergoe.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:169397:5"/>
+               <div n="2" type="emblem">
+                  <p>
+                     <figure>
+                        <head>EMBLEME II.</head>
+                        <figDesc>inclement weather and stormy seas threaten to sink ship (of the Anglican Church)</figDesc>
+                        <figure>
+                           <head>Iustice</head>
+                           <figDesc>divine hand hurling lightning bolts at ship</figDesc>
+                        </figure>
+                        <figure>
+                           <figDesc>depiction of ship</figDesc>
+                           <figure>
+                              <head>Proceſse</head>
+                              <figDesc>pennant</figDesc>
+                           </figure>
+                           <figure>
+                              <head>licenc</head>
+                              <figDesc>flag</figDesc>
+                           </figure>
+                        </figure>
+                     </figure>
+                  </p>
+               </div>
+               <div type="poem">
+                  <pb n="4" facs="tcp:169397:6"/>
+                  <epigraph>
+                     <q>
+                        <p>Then the Mariners were afraid, and they cryed every man unto his God, &amp;c.</p>
+                        <bibl>Jonah 1.5.</bibl>
+                     </q>
+                  </epigraph>
+                  <lg>
+                     <l>Who made</l>
+                     <l>accompt that times,</l>
+                     <l>ſo ſoon would change; who knew</l>
+                     <l>when heavens juſtice would appeare,</l>
+                     <l>and bring the Prelates fall ſo neare?</l>
+                     <l>even now in all mens ſight.</l>
+                     <l>They were in prime,</l>
+                     <l>and ſayd.</l>
+                     <l>of mortall men why ſhould we be afraid?</l>
+                  </lg>
+                  <lg>
+                     <l>But now</l>
+                     <l>that time is gone,</l>
+                     <l>the preſent (Now) is theirs,</l>
+                     <l>wherein by heavens ruling hand,</l>
+                     <l>theſe Iudges now Delinquents ſtand,</l>
+                     <l>oppreſt with griefe and feares</l>
+                     <l>that are unknown,</l>
+                     <l>and bow</l>
+                     <l>to bleſt impartiall Iuſtice frowning brow,</l>
+                  </lg>
+                  <lg>
+                     <l>Our Land</l>
+                     <l>Was ſore oppreſt,</l>
+                     <l>our Church and Common-wealth</l>
+                     <l>groan'd beneath the Tyranny</l>
+                     <l>of this oppreſſing Hierarchy.</l>
+                     <l>But what they got by ſtealth,</l>
+                     <l>with them can't reſt,</l>
+                     <l>they ſtand</l>
+                     <l>Trembling beneath the power of Iuſtice hand.</l>
+                  </lg>
+                  <lg>
+                     <l>Vnlade</l>
+                     <l>the Ship they cry'd,</l>
+                     <l>perchance by that we may</l>
+                     <l>preſerve our lives, and Lordly ſtate.</l>
+                     <l>But Reformation was too late,</l>
+                     <l>for they too long bore ſway;</l>
+                     <l>now ſhall their pride</l>
+                     <l>be layd,</l>
+                     <l>which makes theſe Romiſh Seamen ſore afraid.</l>
+                  </lg>
+                  <lg>
+                     <l>The Wind</l>
+                     <l>of the Commons,</l>
+                     <l>'t was not the Common wind</l>
+                     <l>that did this mighty Tempeſt raiſe,</l>
+                     <l>which put theſe Prelates in amaze,</l>
+                     <l>
+                        <pb n="5" facs="tcp:169397:6"/>
+they can no harbour find.</l>
+                     <l>For ſure no one's</l>
+                     <l>inclin'd</l>
+                     <l>to pitty thoſe that have bin wilfull blind.</l>
+                  </lg>
+                  <lg>
+                     <l>Help us,</l>
+                     <l>they cry we periſh.</l>
+                     <l>Now Gallows claime thy right.</l>
+                     <l>Our Ship will now no longer ſaile.</l>
+                     <l>Our Canons at our need doth faile,</l>
+                     <l>which did our Lordly might</l>
+                     <l>uphold and cheriſh</l>
+                     <l>And thus</l>
+                     <l>In deadly feare their caſe to us diſcuſſe,</l>
+                     <l>hoping to have a <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e by moving us.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:169397:7"/>
+               <div n="3" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>Archbishop Laud escorted into the Tower of London</figDesc>
+                        <head>EMBLEME III.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="poem">
+                  <pb n="7" facs="tcp:169397:7"/>
+                  <epigraph>
+                     <q>
+                        <p>The righteous are delivered out of trouble, and the wicked is in his roome.</p>
+                        <bibl>Prov. 8.</bibl>
+                     </q>
+                  </epigraph>
+                  <lg>
+                     <l>A Pirate is no ſooner brought a ſhoare,</l>
+                     <l>But layd in priſon, there hee's kept in ſtore,</l>
+                     <l>'Till Iuſtice ſaith his time ſhall be no more.</l>
+                  </lg>
+                  <lg>
+                     <l>Even-ſo, this Prelate was no-ſooner free</l>
+                     <l>From peoples rage, but Iuſtice did decree,</l>
+                     <l>Where he ſent others there himſelfe ſhould be.</l>
+                  </lg>
+                  <lg>
+                     <l>Where he ſhall lye with horrour in amaze,</l>
+                     <l>And reape the fruit of his oppreſſing wayes,</l>
+                     <l>When Iuſtice hand ſhall conſummate his dayes.</l>
+                  </lg>
+                  <lg>
+                     <l>Time was when he in <hi>England</hi> ſhin'd as bright</l>
+                     <l>As Cynthia's night-lamp with her borrow'd light,</l>
+                     <l>But now his Grace is found ſome graines too light.</l>
+                  </lg>
+                  <lg>
+                     <l>For now 'tis known he ſtudy'd alteration,</l>
+                     <l>Vniting <hi>Rome</hi> to <hi>Englands</hi> thriving Nation;</l>
+                     <l>He was ſole Author of this ſtrange tranſlation.</l>
+                  </lg>
+                  <lg>
+                     <l>'Twas he that ſought to bring a diſmall night</l>
+                     <l>Vpon our Land, by vailing of the light</l>
+                     <l>Of Chriſts eternall Word, which ſhines ſo bright.</l>
+                  </lg>
+                  <lg>
+                     <l>But now the Cloud's diſperſt, her golden head</l>
+                     <l>Shines thrice more glorious, and the Clouds are fled.</l>
+                     <l>But had they ſtay'd th' had dire diſaſters bred.</l>
+                  </lg>
+                  <lg>
+                     <l>'T was thou that didſt Gods people over-reach;</l>
+                     <l>'T was thou that ſtopt the mouths of them that preach,</l>
+                     <l>And wer't a hindrance that they could not teach.</l>
+                  </lg>
+                  <lg>
+                     <l>Some thou didſt priſon, ſome thou mad'ſt to flee;</l>
+                     <l>Remember theſe, 't is heavens juſt decree,</l>
+                     <l>What thou didſt doe, ſhould now be done to thee.</l>
+                  </lg>
+                  <lg>
+                     <l>Now they their wonted joyfull freedoms have,</l>
+                     <l>And thou art faſt, and now doſt freedome crave:</l>
+                     <l>But thou muſt haſt unto thy darkſome grave.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>And Thou O everlaſting Three in One,</hi>
+                     </l>
+                     <l>
+                        <hi>Shew him that mercy he would ſhew to none,</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:169397:8"/>
+               <div n="4" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>Archbishop Laud, atop the Tower of London, looks down upon a gallows</figDesc>
+                        <head>EMBLEME IIII.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="poem">
+                  <pb n="9" facs="tcp:169397:8"/>
+                  <epigraph>
+                     <q>
+                        <bibl>DEUT. 32.29.</bibl>
+                        <p>Oh that he were wiſe, that he would underſtand this, that he would conſider his latter end.</p>
+                     </q>
+                  </epigraph>
+                  <lg>
+                     <l>ARch-Polititian, art thou not aſham'd</l>
+                     <l>To live thus long, and now at laſt be blam'd</l>
+                     <l>For want of wit? thy folly now deſpiſe,</l>
+                     <l>And let your Lordſhip learne to be more wiſe.</l>
+                     <l>How long didſt thou uphold thy High Commiſſion?</l>
+                     <l>And imitate the Spaniſh-Inquiſition.</l>
+                     <l>How dar'ſt thou owne that damned Canon-law?</l>
+                     <l>The like to which ther's no man ever ſaw.</l>
+                     <l>'T is this that makes men hate thee, and deſpiſe,</l>
+                  </lg>
+                  <lg>
+                     <l>O would thy graceleſſe Grace had bin more wiſe.</l>
+                     <l>'T was thy goodwill the people ſhould not look</l>
+                     <l>In any other but the Service Book;</l>
+                     <l>Vnleſſe 't were ſuch which for to ſport and play,</l>
+                     <l>Did give them licence on the Sabboth day.</l>
+                     <l>By this you thought you ſhould their ſoules ſurpriſe,</l>
+                  </lg>
+                  <lg>
+                     <l>O would your little Grace had bin more wiſe.</l>
+                     <l>You lov'd few words, and therfore would not preach,</l>
+                     <l>But filenc'd ſuch as dayly uſ'd to teach.</l>
+                     <l>Your ayme was alway to have alterations,</l>
+                     <l>And by your Altars thought to alter Nations.</l>
+                     <l>But God Almighty croſt your enterpriſe,</l>
+                  </lg>
+                  <lg>
+                     <l>O would your Popiſh Grace had bin more wiſe:</l>
+                     <l>For now be ſure that all your golden Coapes,</l>
+                     <l>You muſt exchange for new ſpun hempen Ropes.</l>
+                     <l>And thou which ofttimes didſt thy body ſcrew,</l>
+                     <l>Into ſuch ſhapes <hi>Prometheus</hi> never knew,</l>
+                     <l>Before thy Altar, be it no diſpraiſe,</l>
+                     <l>Thou ſhalt be ſtraightned, and ſo end thy dayes.</l>
+                  </lg>
+                  <lg>
+                     <l>Conſider this, and every day conjecture,</l>
+                     <l>That <hi>Pulchers</hi> bell doth toll to Tyburne Lecture,</l>
+                  </lg>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
